@@ -3,6 +3,7 @@ and like to make unique and interesting projects.
 
 Currently I have completed the following projects:
 - Coding a Linux based operating system
+- Sorting Algorithm Visualizer
 - Discord bot using Python
 
 <!---
