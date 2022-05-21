@@ -1,4 +1,4 @@
-Hi, I'm Artin Davari, and I am currently an Electrical Engineering student at Cal Poly SLO. I am interested in computer hardware and software,
+Hi, I'm Artin Davari, and I am currently a Computer Science student at Cal Poly SLO. I am interested in computer software and hardware,
 and like to make unique and interesting projects.
 
 Currently I have completed the following projects:
